@@ -19,6 +19,7 @@ public class Answer {
     )
     private Long id;
 
+    // comments added
     @Column(columnDefinition = "text")
     private String text;
 

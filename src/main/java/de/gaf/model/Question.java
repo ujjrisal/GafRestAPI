@@ -15,6 +15,8 @@ public class Question {
             sequenceName = "question_sequence",
             initialValue = 1000
     )
+
+    //Added comments
     private Long id;
 
     @NotBlank
